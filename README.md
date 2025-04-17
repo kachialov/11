@@ -37,14 +37,6 @@
   - Quick Sort (Spartaus rikiavimo algoritmas)
 - Rūšiavimo algoritmų palyginimas
 
-## 5. Grafų algoritmai ir trumpiausio kelio paieška
-- Grafų sąvokos: viršūnės, briaunos, svoriai
-- Dijkstros algoritmas
-- Bellman-Ford algoritmas
-- BFS trumpiausiam keliui
-- DFS ir BFS paieškai grafuose
-- Algoritmų parametrai, veikimas ir sudėtingumo analizė
-
 ## 6. Rekursija
 - Rekursijos sąvoka
 - Privalumai ir trūkumai
