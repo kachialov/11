@@ -147,3 +147,21 @@
 - Praktiniai pavyzdžiai su Python ir C++
 - Pakartojimas: sveikieji ir realieji skaičiai, jų apdorojimas programose
 
+## 19. Kompiuterių tinklai
+- **Trumpa istorija:** ARPANET, TCP/IP atsiradimas
+- **Tinklo sąvoka:** paskirtis, pagrindiniai komponentai
+- **Kompiuterių tinklų modeliai:** TCP/IP (4 sluoksniai)
+  - **Taikymo sluoksnis:** protokolai HTTP, FTP, DNS
+  - **Transporto sluoksnis:** TCP, UDP, duomenų srautų valdymas
+  - **Interneto sluoksnis:** IP adresacija, maršrutizavimas
+  - **Prieigos tinklo sluoksnis:** Ethernet, MAC adresai
+- **LAN ir WAN tinklai:** jų palyginimas
+- **Tinklo topologijos:** žvaigždė, žiedas, magistralė ir kt.
+- **IP adresai (IPv4):** struktūra, klasifikacija, viešieji ir privatūs
+- **Domenai, DNS, URL:** adresavimas internete
+- **Duomenų paketų perdavimas:** dekompozicijos principas
+- **Maršrutizatoriai ir prievadai (portai):** duomenų srauto valdymas
+- **Tinklo sauga ir etiketas:** atsakingas elgesys internete
+- **IoT (daiktų internetas):** išmanių įrenginių tinklai
+- **Debesų kompiuterija:** duomenų saugojimas internete
+- **Žymiausi mokslininkai:** kompiuterių tinklų ir interneto vystymas
