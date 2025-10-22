@@ -1,3 +1,5 @@
+👉 [Dirbtinis intelektas]([https://gamma.app/signup?r=nhtbr10qcbgj2ky](https://gamma.app/docs/11-Dirbtinis-intelektas-dswun9tmjlsev70))
+
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
 ## 1. Algoritmai
