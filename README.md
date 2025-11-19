@@ -1,6 +1,8 @@
 [Dirbtinis intelektas](https://gamma.app/docs/11-Dirbtinis-intelektas-dswun9tmjlsev70)
 
-👉 [Pirmosios Python programos](https://gamma.app/docs/1103-Pirmosios-Python-programos-kurimas-cd3s1mkgbmgkt16)
+[Pirmosios Python programos](https://gamma.app/docs/1103-Pirmosios-Python-programos-kurimas-cd3s1mkgbmgkt16)
+
+👉 [Programavimo pamokėlės. 1 lygis (Python)](https://gamma.app/docs/110401-Programavimo-pamokeles-8od8os6jbvs9lzl)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
