@@ -2,7 +2,8 @@
 
 [Pirmosios Python programos](https://gamma.app/docs/1103-Pirmosios-Python-programos-kurimas-cd3s1mkgbmgkt16)
 
-👉 [Programavimo pamokėlės. 1 lygis (Python)](https://gamma.app/docs/110401-Programavimo-pamokeles-8od8os6jbvs9lzl)
+[Programavimo pamokėlės. 1 lygis (Python). ](https://gamma.app/docs/110401-Programavimo-pamokeles-8od8os6jbvs9lzl)
+👉 [Programavimo pamokėlės. 1 lygis (Python). Šakotieji_algoritmai](https://gamma.app/docs/110402-Sakotieji-algoritmai-xgfh6h8jd3vq6a6)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
