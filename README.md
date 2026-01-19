@@ -4,7 +4,9 @@
 
 [Programavimo pamokėlės. 1 lygis (Python). ](https://gamma.app/docs/110401-Programavimo-pamokeles-8od8os6jbvs9lzl)
 
-👉 [Programavimo pamokėlės. 1 lygis (Python). Šakotieji_algoritmai](https://gamma.app/docs/110402-Sakotieji-algoritmai-xgfh6h8jd3vq6a6)
+[Programavimo pamokėlės. 1 lygis (Python). Šakotieji_algoritmai](https://gamma.app/docs/110402-Sakotieji-algoritmai-xgfh6h8jd3vq6a6)
+
+👉 [Programavimo pamokėlės. 1 lygis (Python). Cikliniai_algoritmai](https://gamma.app/docs/110403-Cikliniai-algoritmai-wcz4fnf503wmx6z)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
