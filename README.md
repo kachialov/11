@@ -8,7 +8,9 @@
 
 [Programavimo pamokėlės. 1 lygis (Python). Cikliniai_algoritmai](https://gamma.app/docs/110403-Cikliniai-algoritmai-wcz4fnf503wmx6z)
 
-👉 [Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/1105-Sumos-vidurkio-kiekio-min-max-algoritmai-d902vol2a3v6485)
+ [Sumos, vidurkio, kiekio, min, max skaičiavimo algoritmai](https://gamma.app/docs/1105-Sumos-vidurkio-kiekio-min-max-algoritmai-d902vol2a3v6485)
+
+👉 [Dažniausiai pasitaikančios klaidos iš algoritmų rašymo (MIN, MAX, kiekio, sumos ir procento skaičiavimas)](https://gamma.app/docs/110502-Klaidos-MIN-MAX-kiekio-sumos-procentai-upn4pwbl6rvgkfh)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
