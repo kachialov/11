@@ -12,8 +12,9 @@
 
 [Dažniausiai pasitaikančios klaidos iš algoritmų rašymo (MIN, MAX, kiekio, sumos ir procento skaičiavimas)](https://gamma.app/docs/110502-Klaidos-MIN-MAX-kiekio-sumos-procentai-upn4pwbl6rvgkfh)
 
-👉 [Programavimo pamokėlės. 2 lygis (Python). Funkcijos](https://gamma.app/docs/1106-Funkcijos-hifup8gwkuekvzm)
+[Programavimo pamokėlės. 2 lygis (Python). Funkcijos](https://gamma.app/docs/1106-Funkcijos-hifup8gwkuekvzm)
 
+👉 [Programavimo pamokėlės. 2 lygis (Python). Sąrašai](https://gamma.app/docs/1107-Sarasai-yfp8r0mcaci1fh2)
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
 ## 1. Algoritmai
