@@ -16,7 +16,9 @@
 
 [Programavimo pamokėlės. 2 lygis (Python). Sąrašai](https://gamma.app/docs/1107-Sarasai-yfp8r0mcaci1fh2)
 
-👉 [Programavimo pamokėlės. 3 lygis (Python). Aibės (set)](https://gamma.app/docs/1108-Aibes-0gloatsd1dwsnwr)
+[Programavimo pamokėlės. 3 lygis (Python). Aibės (set)](https://gamma.app/docs/1108-Aibes-0gloatsd1dwsnwr)
+
+👉 [Programavimo pamokėlės. 3 lygis (Python). Žodynas (dictionary)](https://gamma.app/docs/1109-Zodynas-krfltu9x3s1z4nc)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
