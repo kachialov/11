@@ -18,7 +18,9 @@
 
 [Programavimo pamokėlės. 3 lygis (Python). Aibės (set)](https://gamma.app/docs/1108-Aibes-0gloatsd1dwsnwr)
 
-👉 [Programavimo pamokėlės. 3 lygis (Python). Žodynas (dictionary)](https://gamma.app/docs/1109-Zodynas-krfltu9x3s1z4nc)
+[Programavimo pamokėlės. 3 lygis (Python). Žodynas (dictionary)](https://gamma.app/docs/1109-Zodynas-krfltu9x3s1z4nc)
+
+👉 [Programavimo pamokėlės. 3 lygis (Python). Nekeičiami sąrašai (tuple)](https://gamma.app/docs/1110-Tuple-nyyqblwjy7uukp0)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
