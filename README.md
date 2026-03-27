@@ -20,7 +20,9 @@
 
 [Programavimo pamokėlės. 3 lygis (Python). Žodynas (dictionary)](https://gamma.app/docs/1109-Zodynas-krfltu9x3s1z4nc)
 
-👉 [Programavimo pamokėlės. 3 lygis (Python). Nekeičiami sąrašai (tuple)](https://gamma.app/docs/1110-Tuple-nyyqblwjy7uukp0)
+[Programavimo pamokėlės. 3 lygis (Python). Nekeičiami sąrašai (tuple)](https://gamma.app/docs/1110-Tuple-nyyqblwjy7uukp0)
+
+👉 [Programavimo pamokėlės. 3 lygis (Python). Klasės (class)](https://gamma.app/docs/1111-Class-f6hhljdiyaiq3te)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
