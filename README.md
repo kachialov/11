@@ -191,3 +191,13 @@
 - **IoT (daiktų internetas):** išmanių įrenginių tinklai
 - **Debesų kompiuterija:** duomenų saugojimas internete
 - **Žymiausi mokslininkai:** kompiuterių tinklų ir interneto vystymas
+
+## 21. Asmens duomenų teisėtas naudojimas
+[Skaidrės](https://gamma.app/docs/1121-asmens-duomenu-teisetas-naudojimas-1kkkp659rj0de1d)
+- Dažniausi asmens duomenys skaitmeniniame bendravime:
+- Pagrindiniai teisės aktai Europoje ir Lietuvoje:
+- BDAR pagrindai (ką turi užtikrinti duomenų tvarkymas):
+- Duomenų subjekto teisės ir jų realizavimas:
+- Institucijos ir atsakomybės:
+- Kibernetinio saugumo sąvokos (pagal įstatymą) ir praktiniai pavyzdžiai:
+- Kibernetinės saugos ir duomenų saugos ryšys
