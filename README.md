@@ -201,3 +201,12 @@
 - Institucijos ir atsakomybės:
 - Kibernetinio saugumo sąvokos (pagal įstatymą) ir praktiniai pavyzdžiai:
 - Kibernetinės saugos ir duomenų saugos ryšys
+
+## 22. Saugus elgesys
+
+### 22.1. Slaptažodžiai, autentifikavimas, paskyrų apsauga
+[Skaidrės](https://gamma.app/docs/11221-Slaptazodziai-autentifikavimas-paskyru-apsauga-la30rtoi281q6j4)
+- Slaptažodžių saugumas: stiprūs slaptažodžiai, slaptafrazės, dažniausios klaidos
+- Slaptažodžių vagystės būdai ir rizikos
+- Autentifikavimas ir MFA
+- Paskyrų apsaugos priemonės
