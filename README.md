@@ -1,4 +1,4 @@
-[Dirbtinis intelektas](https://gamma.app/docs/11-Dirbtinis-intelektas-dswun9tmjlsev70)
+👉 [Programavimo aplinka](https://gamma.app/docs/1103m-Programavimo-aplinka-4tcm4r2hiajl4mm?mode=doc)
 
 [Pirmosios Python programos](https://gamma.app/docs/1103-Pirmosios-Python-programos-kurimas-cd3s1mkgbmgkt16)
 
@@ -22,7 +22,9 @@
 
 [Programavimo pamokėlės. 3 lygis (Python). Nekeičiami sąrašai (tuple)](https://gamma.app/docs/1110-Tuple-nyyqblwjy7uukp0)
 
-👉 [Programavimo pamokėlės. 3 lygis (Python). Klasės (class)](https://gamma.app/docs/1111-Class-f6hhljdiyaiq3te)
+[Programavimo pamokėlės. 3 lygis (Python). Klasės (class)](https://gamma.app/docs/1111-Class-f6hhljdiyaiq3te)
+
+[Dirbtinis intelektas](https://gamma.app/docs/11-Dirbtinis-intelektas-dswun9tmjlsev70)
 
 # Temos informatikos kurso atsiskaitymui (11 klasė)
 
